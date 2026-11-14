@@ -11,6 +11,7 @@ models/*
 
 reports/*
 !reports/.gitkeep
+!reports/*.md
 
 .env
 .DS_Store
