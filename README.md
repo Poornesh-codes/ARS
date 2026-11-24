@@ -25,7 +25,7 @@ UCI Human Activity Recognition Using Smartphones.
 
 - Random Forest
 - 1D Convolutional Neural Network
-- LSTM
+
 
 ## Development Environment
 
